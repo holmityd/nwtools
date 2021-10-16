@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634388664050,
+  "timestamp": 1634389167036,
   "index": "/nwtools/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/nwtools/favicon.ico",
         "/nwtools/index.html",
-        "/nwtools/main.b6aaba9bd4207e8ce63c.js",
+        "/nwtools/main.553f1bddab89e555ec9d.js",
         "/nwtools/manifest.webmanifest",
         "/nwtools/polyfills.8ec718078c9ad7142f3d.js",
         "/nwtools/runtime.4dfdfc6606b79c635d32.js",
@@ -52,8 +52,8 @@
     "/nwtools/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/nwtools/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/nwtools/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/nwtools/index.html": "0e8d02ecdad828e3e827b74966c865af1d3dcffa",
-    "/nwtools/main.b6aaba9bd4207e8ce63c.js": "1f92c72c629923d23bfca13d54c0d09615c42784",
+    "/nwtools/index.html": "73ac87b65fd0c40753bda50ccd9d8289cd29c695",
+    "/nwtools/main.553f1bddab89e555ec9d.js": "d86590068d5eb6b3fcef0f9494661281672d8da6",
     "/nwtools/manifest.webmanifest": "e4492b7ba4022f13f6e0373854c99ddbcaf8962c",
     "/nwtools/polyfills.8ec718078c9ad7142f3d.js": "2a76d960256664147842977c89bfe86295423a83",
     "/nwtools/runtime.4dfdfc6606b79c635d32.js": "35cf2e38434cd115be758227455ca44d5c404c44",
